@@ -1,7 +1,7 @@
 name: Better Society Solutions
 favicon: null
 layout_spectrum: 0.6847169268876314
-typography_spectrum: 0.8953180394601077
+typography_spectrum: 0.91292
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#E376B7'
   brandStrength: 0.875
   lightness: 0.75
-  saturation: 0.875
-  rhythmicContrast: 0.29256826057098806
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
